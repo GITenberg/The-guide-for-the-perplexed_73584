@@ -1,0 +1,40 @@
+_repo: The-guide-for-the-perplexed_73584
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Friedländer, M. (Michael)
+    aliases:
+    - Friedländer, Michael
+    - Friedlander, M. (Michael)
+    - Friedlaender, M. (Michael)
+    birthdate: 1833
+    deathdate: 1910
+    gutenberg_agent_id: '48612'
+    url: http://www.gutenberg.org/2009/agents/48612
+    wikipedia: https://en.wikipedia.org/wiki/Michael_Friedl%C3%A4nder
+creator:
+  author:
+    agent_name: Maimonides, Moses
+    gutenberg_agent_id: '57130'
+    url: http://www.gutenberg.org/2009/agents/57130
+description: ''
+gutenberg_issued: '2024-05-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73584'
+language: en
+pgterms:marc904: https://archive.org/details/guideforperplexe00maim/page/n5
+pgterms:marc905: 20190206115950maimonides
+pgterms:marc906: '1910'
+pgterms:marc907: GB
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg (This file was produced from images
+  generously made available by The Internet Archive/American Libraries.)
+publication_note: '  $aLondon :$bGeorge Routledge & Sons Limited, $c1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The guide for the perplexed
+url: http://www.gutenberg.org/ebooks/73584
