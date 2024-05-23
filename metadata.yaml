@@ -12,12 +12,17 @@ contributor:
     gutenberg_agent_id: '48612'
     url: http://www.gutenberg.org/2009/agents/48612
     wikipedia: https://en.wikipedia.org/wiki/Michael_Friedl%C3%A4nder
+covers:
+- cover_type: archival
+  image_path: 73584-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Maimonides, Moses
     gutenberg_agent_id: '57130'
     url: http://www.gutenberg.org/2009/agents/57130
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73584#The-guide-for-the-perplexed
 gutenberg_issued: '2024-05-09'
 gutenberg_type: Text
 identifiers:
